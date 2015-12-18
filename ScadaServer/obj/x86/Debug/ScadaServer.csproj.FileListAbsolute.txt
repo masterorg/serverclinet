@@ -1,0 +1,7 @@
+D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\bin\Debug\ScadaServer.exe
+D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\bin\Debug\ScadaServer.pdb
+D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\bin\Debug\ScadaCommon.dll
+D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\bin\Debug\ScadaCommon.pdb
+D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\obj\x86\Debug\ScadaServer.exe
+D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\obj\x86\Debug\ScadaServer.pdb

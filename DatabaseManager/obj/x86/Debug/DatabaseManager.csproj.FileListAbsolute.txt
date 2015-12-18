@@ -1,0 +1,7 @@
+D:\STUDENTI\sw12\Kolokvijum2\DatabaseManager\bin\Debug\DatabaseManager.exe
+D:\STUDENTI\sw12\Kolokvijum2\DatabaseManager\bin\Debug\DatabaseManager.pdb
+D:\STUDENTI\sw12\Kolokvijum2\DatabaseManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STUDENTI\sw12\Kolokvijum2\DatabaseManager\obj\x86\Debug\DatabaseManager.exe
+D:\STUDENTI\sw12\Kolokvijum2\DatabaseManager\obj\x86\Debug\DatabaseManager.pdb
+D:\STUDENTI\sw12\Kolokvijum2\DatabaseManager\bin\Debug\ScadaCommon.dll
+D:\STUDENTI\sw12\Kolokvijum2\DatabaseManager\bin\Debug\ScadaCommon.pdb
