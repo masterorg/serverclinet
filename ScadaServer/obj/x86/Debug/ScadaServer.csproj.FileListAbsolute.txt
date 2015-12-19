@@ -5,3 +5,10 @@ D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\bin\Debug\ScadaCommon.pdb
 D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\obj\x86\Debug\ScadaServer.exe
 D:\STUDENTI\sw12\Kolokvijum2\ScadaServer\obj\x86\Debug\ScadaServer.pdb
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\obj\x86\Debug\ScadaServer.exe
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\obj\x86\Debug\ScadaServer.pdb
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\bin\Debug\ScadaServer.exe
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\bin\Debug\ScadaServer.pdb
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\bin\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\bin\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\obj\x86\Debug\ScadaServer.csprojResolveAssemblyReference.cache

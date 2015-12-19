@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Runtime.Serialization;
+using System.ServiceModel;
 
 namespace ScadaCommon
 {
@@ -12,8 +13,24 @@ namespace ScadaCommon
         [DataMember]
         private double value;
 
-        [DataMember]
+                [DataMember]
+
+        public double Value
+        {
+            get { return this.value; }
+            set { this.value = value; }
+        }
+
+                [DataMember]
+
         private DateTime timeStamp;
+               [DataMember]
+
+        public DateTime TimeStamp
+        {
+            get { return timeStamp; }
+            set { timeStamp = value; }
+        }
 
         public Tag() { }
 

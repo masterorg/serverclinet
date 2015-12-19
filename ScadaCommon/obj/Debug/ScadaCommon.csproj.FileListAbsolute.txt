@@ -3,3 +3,7 @@ D:\STUDENTI\sw12\Kolokvijum2\ScadaCommon\bin\Debug\ScadaCommon.pdb
 D:\STUDENTI\sw12\Kolokvijum2\ScadaCommon\obj\Debug\ResolveAssemblyReference.cache
 D:\STUDENTI\sw12\Kolokvijum2\ScadaCommon\obj\Debug\ScadaCommon.dll
 D:\STUDENTI\sw12\Kolokvijum2\ScadaCommon\obj\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaCommon\bin\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaCommon\bin\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaCommon\obj\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\Kolokvijum2\ScadaCommon\obj\Debug\ScadaCommon.pdb

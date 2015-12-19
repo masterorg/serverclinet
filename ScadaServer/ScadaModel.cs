@@ -41,9 +41,10 @@ namespace ScadaServer
          //interface implementation
         public Tag Read(string tagId)
         {
-            Tag t;
+            Tag t=null;
             lock (tags)
             {
+                if(tags.ContainsKey(tagId))
                 t = tags[tagId];
             }
 

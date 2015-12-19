@@ -5,6 +5,7 @@ using System.Text;
 using System.Collections;
 using System.ServiceModel;
 using ScadaCommon;
+using System.IO;
 
 namespace ScadaServer
 {
@@ -15,6 +16,11 @@ namespace ScadaServer
         {
             Console.WriteLine("WCFServer kreiran.");
             ScadaModel model = new ScadaModel();
+
+            if (File.Exists("database.txt"))
+            { 
+                
+            }
 
             Uri htppAdrress = new Uri("http://localhost:8000/IPicture");
             Uri tcpAddress = new Uri("net.tcp://localhost:4000/IDatabaseManager");
