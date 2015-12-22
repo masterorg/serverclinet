@@ -7,3 +7,12 @@ C:\Users\stefan\Desktop\Kolokvijum2\ScadaCommon\bin\Debug\ScadaCommon.dll
 C:\Users\stefan\Desktop\Kolokvijum2\ScadaCommon\bin\Debug\ScadaCommon.pdb
 C:\Users\stefan\Desktop\Kolokvijum2\ScadaCommon\obj\Debug\ScadaCommon.dll
 C:\Users\stefan\Desktop\Kolokvijum2\ScadaCommon\obj\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaCommon\bin\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaCommon\bin\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaCommon\obj\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaCommon\obj\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\serverclinet\ScadaCommon\bin\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\serverclinet\ScadaCommon\bin\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\serverclinet\ScadaCommon\obj\Debug\ScadaCommon.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Desktop\serverclinet\ScadaCommon\obj\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\serverclinet\ScadaCommon\obj\Debug\ScadaCommon.pdb

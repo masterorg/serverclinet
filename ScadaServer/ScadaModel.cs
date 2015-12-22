@@ -5,6 +5,8 @@ using System.Text;
 using ScadaCommon;
 using System.Threading;
 using System.ServiceModel;
+using System.Xml.Serialization;
+using System.IO;
 
 
 namespace ScadaServer
@@ -14,6 +16,13 @@ namespace ScadaServer
     {
         private Dictionary<String, Tag> tags;
         private Dictionary<String, Thread> threads;
+        private Dictionary<String, TagInfo> infos;
+
+        public Dictionary<String, TagInfo> Infos
+        {
+            get { return infos; }
+            set { infos = value; }
+        }
 
         public Dictionary<String, Thread> Threads
         {
@@ -33,6 +42,7 @@ namespace ScadaServer
         {
             tags = new Dictionary<string, Tag>();
             threads = new Dictionary<string, Thread>();
+            infos = new Dictionary<string, TagInfo>();
         
         }
 
@@ -67,18 +77,29 @@ namespace ScadaServer
 
             Thread t = new Thread(new ParameterizedThreadStart(Scan));//add parametere to thread
             threads.Add(tagInfo.TagId, t);//add to collection
+            //add to infos collection
+            infos.Add(tagInfo.TagId, tagInfo);
+
             t.Start(tagInfo);//start the thread with parameter of it's scan time
 
-            Console.WriteLine("Tag je dodat.");
+           // Console.WriteLine("Tag je dodat.");
         }
 
         public void RemoveTag(string tagId)
         {
+            //lock the tags collection to prevent deadlock
             lock (tags)
             {
                 threads[tagId].Abort();
                 tags.Remove(tagId);
+
             }
+            //lock the infos collection to prevent deadlock
+            lock(infos)
+            {
+                infos.Remove(tagId);
+            }
+           // Console.WriteLine("Infos removed");
         }
 
         public void ToggleTagAutoManual(string tagId)
@@ -117,8 +138,25 @@ namespace ScadaServer
 
             }
         }
+         
+         //destructor
+         ~ScadaModel()
+        {
+            //save ScadaModel to database.txt
+            XmlSerializer serializer = new XmlSerializer(typeof(ScadaModel));
+
+            using (TextWriter textWriter = new StreamWriter("database.xml"))
+            {
+
+                serializer.Serialize(textWriter, this);
+
+            }
+         
+        }
 
     }
+
+    
 
    
 }

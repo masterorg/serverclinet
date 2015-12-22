@@ -6,16 +6,20 @@ using System.Collections;
 using System.ServiceModel;
 using ScadaCommon;
 using System.IO;
+using System.Xml.Serialization;
+
 
 namespace ScadaServer
 {
     internal sealed class ServerWCF
     {
+        
 
         private static void Main()
         {
             Console.WriteLine("WCFServer kreiran.");
             ScadaModel model = new ScadaModel();
+            
 
             if (File.Exists("database.txt"))
             { 
@@ -36,10 +40,17 @@ namespace ScadaServer
             svc.Open();
 
             Console.WriteLine("WCFServer spreman za primanje poruka.");
+
             Console.ReadLine();
+          
             svc.Close();
 
+           
+
         }
+       
+
+        
 
         
     }

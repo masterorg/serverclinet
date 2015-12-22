@@ -1,0 +1,14 @@
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaPicture\bin\Debug\ScadaPicture.exe
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaPicture\bin\Debug\ScadaPicture.pdb
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaPicture\bin\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaPicture\bin\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaPicture\obj\x86\Debug\ScadaPicture.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaPicture\obj\x86\Debug\ScadaPicture.exe
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaPicture\obj\x86\Debug\ScadaPicture.pdb
+C:\Users\stefan\Desktop\serverclinet\ScadaPicture\obj\x86\Debug\ScadaPicture.exe
+C:\Users\stefan\Desktop\serverclinet\ScadaPicture\obj\x86\Debug\ScadaPicture.pdb
+C:\Users\stefan\Desktop\serverclinet\ScadaPicture\bin\Debug\ScadaPicture.exe
+C:\Users\stefan\Desktop\serverclinet\ScadaPicture\bin\Debug\ScadaPicture.pdb
+C:\Users\stefan\Desktop\serverclinet\ScadaPicture\bin\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\serverclinet\ScadaPicture\bin\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\serverclinet\ScadaPicture\obj\x86\Debug\ScadaPicture.csprojResolveAssemblyReference.cache

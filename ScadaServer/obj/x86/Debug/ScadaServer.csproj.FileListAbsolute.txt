@@ -12,3 +12,17 @@ C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\bin\Debug\ScadaServer.pdb
 C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\bin\Debug\ScadaCommon.dll
 C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\bin\Debug\ScadaCommon.pdb
 C:\Users\stefan\Desktop\Kolokvijum2\ScadaServer\obj\x86\Debug\ScadaServer.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaServer\obj\x86\Debug\ScadaServer.exe
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaServer\obj\x86\Debug\ScadaServer.pdb
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaServer\bin\Debug\ScadaServer.exe
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaServer\bin\Debug\ScadaServer.pdb
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaServer\bin\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaServer\bin\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\stefan65_12\Kolovijum\serverclinet\ScadaServer\obj\x86\Debug\ScadaServer.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Desktop\serverclinet\ScadaServer\obj\x86\Debug\ScadaServer.exe
+C:\Users\stefan\Desktop\serverclinet\ScadaServer\obj\x86\Debug\ScadaServer.pdb
+C:\Users\stefan\Desktop\serverclinet\ScadaServer\bin\Debug\ScadaServer.exe
+C:\Users\stefan\Desktop\serverclinet\ScadaServer\bin\Debug\ScadaServer.pdb
+C:\Users\stefan\Desktop\serverclinet\ScadaServer\bin\Debug\ScadaCommon.dll
+C:\Users\stefan\Desktop\serverclinet\ScadaServer\bin\Debug\ScadaCommon.pdb
+C:\Users\stefan\Desktop\serverclinet\ScadaServer\obj\x86\Debug\ScadaServer.csprojResolveAssemblyReference.cache
